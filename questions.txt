@@ -1,0 +1,18 @@
+Basic SQL Questions
+Count the total number of menu items in the menu_items table.
+Calculate the total sales amount by summing up the prices of all ordered items.
+Find the number of orders placed each day.
+Determine the average price of menu items.
+List the menu items that were ordered in January 2024.
+
+Medium SQL Questions
+Retrieve a list of orders along with the names of the menu items in each order.
+Calculate the total sales amount for each category of menu items.
+Identify the top 5 most ordered menu items.
+For each order, find the total price of all items in that order.
+Generate a daily sales summary showing the total sales for each day.
+
+Advanced SQL Questions
+Calculate the cumulative sales over time, showing the running total sales amount for each day.
+Compute the average order value over the last 7 days for each day in the dataset.
+Rank the menu items by their total sales amount.
